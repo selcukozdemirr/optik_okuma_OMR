@@ -7,11 +7,11 @@ Bu proje, Python kullanarak optik işaretleme tanıma (OMR) işlemleri gerçekle
 ## Kurulum
 
 Bu projeyi kullanmadan önce, aşağıdaki Python kütüphanelerinin yüklenmesi gerekmektedir:
-
+'''
 pip install pillow
 pip install pytesseract
 pip install pandas
-
+'''
 ## Kullanım
 
 Projeyi kullanmak için, aşağıdaki adımları izleyin:
