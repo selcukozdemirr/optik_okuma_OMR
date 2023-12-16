@@ -18,6 +18,6 @@ Projeyi kullanmak için, aşağıdaki adımları izleyin:
 
 1. Projeyi klonlayın veya indirin.
 2. Terminal veya komut satırından proje dizinine gidin.
-3. Eğer aynı optik form için denemek isterseniz taramalar klasöründen optik formu indirin.
+3. Eğer aynı optik form için denemek isterseniz `taramalar` klasöründen optik formu indirin.
 4. `python optik_okuma_scripti.py` komutunu çalıştırarak optik okuma işlemini başlatın.
 5. İşlenen veriler, belirtilen çıktı formatında kaydedilecektir.
