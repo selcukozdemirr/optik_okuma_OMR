@@ -1,5 +1,3 @@
-# optik_okuma_OMR
-Python ile Optik Okuma (Optical Mark Reader)
 # Optik Okuma OMR (Optical Mark Reader) Python Projesi
 
 Bu proje, Python kullanarak optik işaretleme tanıma (OMR) işlemleri gerçekleştirmek için tasarlanmıştır. Çeşitli optik formları tarayıp, işaretlenmiş yanıtları otomatik olarak algılayarak verileri analiz eder.
